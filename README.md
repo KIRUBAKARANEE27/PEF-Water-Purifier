@@ -48,6 +48,15 @@ This project demonstrates a **Pulsed Electric Field (PEF)** system for **chemica
 - [🚀 Future Scope](#-future-improvements)
 
 ---
+## 📊 Simulation Diagram of the Project
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5d17240-6746-42e0-995c-03a663a5388b" />
+
+</p>
+
+> ⚡ The system is modeled in MATLAB Simulink using Boost Converter, CDVM stages, and a pulse control circuit. This simulation helps validate output voltage generation and pulse integrity before hardware implementation.
+
 
 ## ⚙️ Hardware Schematic
 
