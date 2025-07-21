@@ -39,13 +39,13 @@ This project demonstrates a **Pulsed Electric Field (PEF)** system for **chemica
 
 ## 📚 Table of Contents
 
-- [📄 Project Report (PDF)](./docs/PEF_Water_Purification_Project_Report.pdf)
-- [🛠️ Circuit Design](#-hardware-schematic)
-- [🔍 Working Principle](#-working-principle)
-- [📷 Hardware Image](#-live-project-setup)
-- [💻 Arduino Code](#-arduino-code)
-- [🧪 Results & Output](#-results--discussion)
-- [🚀 Future Scope](#-future-improvements)
+- [📄 Project Report (PDF)]
+- [🛠️ Circuit Design]
+- [🔍 Working Principle]
+- [📷 Hardware Image]
+- [💻 Arduino Code]
+- [🧪 Results & Output]
+- [🚀 Future Scope]
 
 ---
 ## 📊 Simulation Diagram of the Project
