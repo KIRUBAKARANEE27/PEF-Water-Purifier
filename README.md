@@ -32,8 +32,6 @@ This project demonstrates a **Pulsed Electric Field (PEF)** system for **chemica
 - ✅ Kills bacteria using **irreversible electroporation**
 - ⚡ Generates ~3kV pulses using DC-DC boost and CDVM
 - 🔄 Arduino controls timing and pulse duration
-- 🔋 Runs on 12V adapter or 9V battery
-- 🧠 Energy-efficient, modular, and IoT-ready
 
 ---
 
